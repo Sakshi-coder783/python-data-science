@@ -1,0 +1,15 @@
+from turtle import*
+forward(108)
+right(60)
+forward(108)
+right(60)
+forward(108)
+right(60)
+forward(108)
+right(60)
+forward(108)
+right(60)
+forward(108)
+right(60)
+mainloop()
+
